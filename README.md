@@ -48,11 +48,36 @@ In summary, Tableau's sales analytics capabilities play a pivotal role in helpin
 <img width="549" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/ede9c7ed-86f0-4483-a9d9-271794e134b4">
 
 ## Data Schema Relations:-
-![image](https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/72bc19cc-d13c-4ac6-9465-1bc16ec806c8)
+<img width="1119" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/36cdddc7-db65-4d9a-8015-0485646af8a9">
 
 ## Dashboard Screenshot:-
+<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/328c5302-3937-4d77-80e3-597b1963c1bd">
+
+## Plots:-
+### Revenue by Markets
+<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/13a9ed60-b9d2-4c2f-8cf6-25f7543665c8">
+
+### Sales Quantity by Markets
+<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/60d04779-b7b2-4344-9178-18aecc14d2f9">
+
+### Top 5 Customers
+<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/950ea2de-63ff-4435-b5f4-1c12e56a02fa">
+
+### Top 5 Products
+<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/1d1b88e3-4a10-4566-a619-bc3174e051bf">
+
+### Revenue by Year
+<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/bbdbbf6a-cf9c-4197-9ff3-112672d8363c">
 
 ## Findings:-
+* Despite the revenue growth in 2018 from 2017, revenues went down in 2019 and 2020.
+* The lowest sales of Rs. 14.7 million were recorded in June 2020.
+* Prod318 is the most sold product; the company made Rs. 68.97 million from the sales.
+* ElectricalSara stores is the most valuable customer, having purchased goods worth Rs. 413.91 million from the company over the past 4 years.
+* Delhi NCR sold the highest number of products.
+* Mumbai produced the highest sales revenue.
+* Total of Rs. 986.63 million worth of products were sold.
+* The sales quantity was 2.43 million in this period.
 
 ## Dashboard Link:-
 https://prod-useast-b.online.tableau.com/t/sahilanalyticsprojects/views/Amaze-Sales-Project/Dashboard1
