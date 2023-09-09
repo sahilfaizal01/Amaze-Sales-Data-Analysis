@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
 ## Problem Statement:-
 Amaze is a hardware solutions company operating in multiple locations within India. The leadership team noticed a steep decline in overall revenue despite receiving positive sales reports from regional managers in different states. This led the management to hire a data analyst to find key insights from the data collected from the nationwide offices. As a part of this, the analyst is provided with a SQL sales database containing multiple tables related to the transactions, offices, product details, etc. The assigned task is to design an interactive dashboard containing region-wise and data-wise sales insights to make an effective decision.
-<img width="1493" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/82b4209e-24f7-47d0-aadf-ef4d134b3bf3">
+<img width="1493" alt="image" src="amaze-intro.jpeg">
 
 ## Importance Of Sales Analytics Using Tableau
 Sales analytics using Tableau holds significant importance for businesses, enabling data-driven decision-making, performance tracking, and enhanced sales strategies. Here's why it's crucial:
@@ -33,41 +33,41 @@ In summary, Tableau's sales analytics capabilities play a pivotal role in helpin
 ## Source Data Schema:-
 * Contains nearly 150k data records related to sales throughout India
 ### Customer Table
-<img width="339" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/8e57fa3b-02b7-4169-8a48-a830f403567f">
+<img width="339" alt="image" src="customers-table.png">
 
 ### Date Table
-<img width="378" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/6e078611-210c-4886-8d68-b3b028220e61">
+<img width="378" alt="image" src="date-table.png">
 
 ### Markets Table
-<img width="378" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/ebe7f227-ca60-4bcf-b287-3ff3cc78f6bc">
+<img width="378" alt="image" src="markets-table.png">
 
 ### Products Table
-<img width="378" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/7907c635-5baa-44d7-a2e7-7184e5634048">
+<img width="378" alt="image" src="products-table.png">
 
 ### Transactions Table
-<img width="549" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/ede9c7ed-86f0-4483-a9d9-271794e134b4">
+<img width="549" alt="image" src="transactions-table.png">
 
 ## Data Schema Relations:-
-<img width="1119" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/36cdddc7-db65-4d9a-8015-0485646af8a9">
+<img width="1119" alt="image" src="schema.png">
 
 ## Dashboard Screenshot:-
-<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/328c5302-3937-4d77-80e3-597b1963c1bd">
+<img width="1510" alt="image" src="dashboard.png">
 
 ## Plots:-
 ### Revenue by Markets
-<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/13a9ed60-b9d2-4c2f-8cf6-25f7543665c8">
+<img width="1510" alt="image" src="revenue-markets.png">
 
 ### Sales Quantity by Markets
-<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/60d04779-b7b2-4344-9178-18aecc14d2f9">
+<img width="1510" alt="image" src="sales-markets.png">
 
 ### Top 5 Customers
-<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/950ea2de-63ff-4435-b5f4-1c12e56a02fa">
+<img width="1510" alt="image" src="top-5-customers.png">
 
 ### Top 5 Products
-<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/1d1b88e3-4a10-4566-a619-bc3174e051bf">
+<img width="1510" alt="image" src="top-5-products.png">
 
 ### Revenue by Year
-<img width="1510" alt="image" src="https://github.com/sahilfaizal01/Sales-Data-Analysis/assets/106440078/bbdbbf6a-cf9c-4197-9ff3-112672d8363c">
+<img width="1510" alt="image" src="sales-year.png">
 
 ## Findings:-
 * Despite the revenue growth in 2018 from 2017, revenues went down in 2019 and 2020.
